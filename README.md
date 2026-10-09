@@ -1,6 +1,6 @@
 # Unity Headless Worker
 
-A small, dependency-free workaround that lets an AI coding agent drive **Unity
+A small, dependency-free workaround that lets a workbuddy AI coding agent drive **Unity
 `-batchmode`** (headless compile, test runs, builds) on Windows — even though the
 agent itself physically cannot launch Unity headlessly.
 
